@@ -1,0 +1,1 @@
+# Benedicto_Django-CRUD-Partner-Web-Application
